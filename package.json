@@ -1,0 +1,16 @@
+{
+  "name": "node-blackfriday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node-gyp configure build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tim Ermilov <yamalight@gmail.com> (http://codezen.net)",
+  "license": "MIT",
+  "devDependencies": {
+    "node-gyp": "^3.6.2"
+  }
+}
