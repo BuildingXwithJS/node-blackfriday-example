@@ -2,7 +2,7 @@
 
 > Free open-source tutorial on creating a basic Node.js native addon using golang library Blackfriday
 
-This repository contains code and related materials for []() video.
+This repository contains code and related materials for [Building Node.js native addons using golang](https://youtu.be/iHxvth0YHm4) video.
 
 ## Project description
 
